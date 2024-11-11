@@ -1,5 +1,5 @@
-let titles_type = ["Dataset", "Survey", "Review", "Overview", "Benchmark"];
-let titles_model = ["NeRF", "Point Cloud", "Mesh", "Voxel", "Gaussian Splatting", "Diffusion"];
+let titles_type = [ "Overview"];
+let titles_model = ["NeRF", "3D", "3DGS", "Point Cloud", "Mesh", "Voxel", "Gaussian Splatting", "Diffusion"];
 let titles_method = ["3D Generation", "3D Reconstruction", "Single View", "Monocular", "Scene Generation", "Novel View Synthesis", "Shape Generation", "Implicit Surface", "Neural Rendering"];
 let titles = titles_model + titles_method + titles_type;
 let authors_array = [
